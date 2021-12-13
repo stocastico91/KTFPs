@@ -40,6 +40,4 @@ Projects like Angular Finance, an isolated lending pair pallet built on top of C
 
 The proposed loan size amounts to $ 5 million KSM for a duration of three months. At expiration date, protocols that received funds will pay the $ 5 million loan back to the Kusama treasury plus any earnings collected during the duration of the loan.
 
-## Proof of Work
 
-Links or images to work related to the proposal. In the case of code, the work should ideally be uploaded by the same GitHub account, which submitted the proposal. 
