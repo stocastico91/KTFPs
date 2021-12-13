@@ -1,5 +1,5 @@
 
-# Title
+# Treasury loan for kick-starting money market activity on Kusama
 
 
 * **KFTP Number:** [To be assigned once it's merged into the master]
@@ -16,7 +16,7 @@ Provide a $ 5 million loan to lending protocols to kick-start the money market a
 
 ## Proposal
 
-**Context of the proposal**
+**Context**
 
 Kusama needs a structured incentive program to attract customers and showcase its unlimited potential in scalability, efficiency, and cross-chain interoperability.
 However, incentives should be wisely directed towards activities that, if adequately rewarded, create a positive feedback loop with a resulting exponential increase in liquidity gathered from outside. 
@@ -36,8 +36,13 @@ Projects like Angular Finance, an isolated lending pair pallet built on top of C
 
  Unlock $ 5 million KSM from the Kusama treasury that will be lent to Angular Finance or other lending projects aimed at kick-starting usage of DeFi applications. 
 
-**Budget & payment conditions**
+**Treasury request**
 
 The proposed loan size amounts to $ 5 million KSM for a duration of three months. At expiration date, protocols that received funds will pay the $ 5 million loan back to the Kusama treasury plus any earnings collected during the duration of the loan.
 
+## Contact and info
+
+0xbrainjar: 0xbrainjar@composable.finance
+
+Github: 
 
